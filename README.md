@@ -1,2 +1,2 @@
 # Atmos
-A modern weather dashboard with real-time forecasts, clean UI, animated weather effects, and responsive design.
+Atmos is a premium, glassmorphic weather visualizer built to deliver weather forecasts in an elegant, interactive dashboard. Powered by real-time meteorological data and featuring dynamic ambient conditions, Atmos converts numerical data into an immersive, premium user experience.
